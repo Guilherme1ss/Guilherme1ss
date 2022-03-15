@@ -1,7 +1,7 @@
 ## Olá, meu nome é Guilherme Ferreira, seja bem vindo(a) ao meu perfil!
 💻☕ Dev Jr.
 
-📚 Estudante de Ciência da Computação e Ciência e Tecnologia (UFBA) 🎓
+📚 Estudante de Ciência da Computação (Faculdade Descomplica) e Ciência e Tecnologia (UFBA) 🎓
 
 *“The people who are crazy enough to think they can change the world are the ones who do.”* - __Steve Jobs__
 <div align="center">
