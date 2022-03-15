@@ -1,4 +1,9 @@
-## Olá! Me chamo Guilherme.
+## Olá! Me chamo Guilherme Ferreira.
+💻☕ Dev Jr.
+
+📚 Estudante de Ciência da Computação e Ciência e Tecnologia (UFBA) 🎓
+
+*“The people who are crazy enough to think they can change the world are the ones who do.”* -__Steve Jobs__
 <div align="center">
   <a href="https://github.com/Guilherme1ss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme1ss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
