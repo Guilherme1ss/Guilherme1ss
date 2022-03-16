@@ -5,6 +5,10 @@
 
 *“The people who are crazy enough to think they can change the world are the ones who do.”* - __Steve Jobs__
 <div align="center">
+<div>
+<img src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv" alt="Instagram logo">
+</div>
+
   <a href="https://github.com/Guilherme1ss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme1ss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1ss&layout=compact&langs_count=7&theme=dark"/>
