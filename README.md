@@ -6,7 +6,7 @@
 *“The people who are crazy enough to think they can change the world are the ones who do.”* - __Steve Jobs__
 <div align="center">
 <div>
-<img src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv" alt="Instagram logo">
+<img src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv" alt="Rick and Morty Gif" href+"#">
 </div><br><br>
 
   <a href="https://github.com/Guilherme1ss">
