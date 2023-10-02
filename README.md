@@ -7,7 +7,7 @@
 <div align="center">
 <div>
 <a href="https://github.com/Guilherme1ss">
-<img src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv" alt="Rick and Morty Gif" href+"#">
+<img src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv" alt="Rick and Morty Gif" href="#">
 </div><br><br>
 
   <a href="https://github.com/Guilherme1ss">
