@@ -11,7 +11,7 @@
 </div><br><br>
 
   <a href="https://github.com/Guilherme1ss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme1ss&show_icons=true&include_all_commits=true&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme1ss&show_icons=true&include_all_commits=true&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1ss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
